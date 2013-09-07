@@ -1,0 +1,12 @@
+#outerHolder{
+	position:absolute;
+	left:50%;
+	top:25%;
+}
+#innerHolder{
+	position:relative;
+	left:-50%;
+}
+#tableHolder{
+	width:120%;
+}
